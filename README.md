@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, HTML, CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me renato_costa@yahoo.com.br
-- 😄 Pronouns: Ele
+- 😄 Pronouns: He
 - ⚡ Fun fact: I went back to studying after I turned 40.
 
 <!---
